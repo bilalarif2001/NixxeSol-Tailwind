@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+    font-family: "PROXIMA";
+    src: url("../src/fonts/Proxima-Nova-Font.otf");
+  }
+
+  @font-face {
+    font-family: "PROXIMABOLD";
+    src: url("../src/fonts/Proxima-Nova-Extrabold.otf");
+  }
